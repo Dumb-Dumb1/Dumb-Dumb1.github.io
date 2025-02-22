@@ -1,7 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .home-page{
     background-color: rgb(191, 203, 27);
+}
+.facts-page{
+    background-color: aqua;
+}
+
+.navbar{
+    background-color: rgba(240, 248, 255, 0.697);
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.navbar a{
+    font-size: large;
+    text-decoration: none;
 }
 
 .home-content-div{
     text-align: center;
+}
+.home-content-div p{
+    font-size: small;
 }
