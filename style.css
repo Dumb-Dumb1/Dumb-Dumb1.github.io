@@ -7,6 +7,9 @@ body{
 .facts-page{
     background-color: aqua;
 }
+.gallery-page{
+    background-color: crimson;
+}
 
 .navbar{
     background-color: rgba(240, 248, 255, 0.697);
@@ -28,4 +31,9 @@ body{
 }
 .facts-content-div{
     margin-left: 10%;
+}
+.gallery-content-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
