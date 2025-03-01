@@ -37,3 +37,13 @@ body{
     justify-content: center;
     align-content: center;
 }
+.gallery-content-div button{
+    border-radius: 30%;
+    padding: 1%;
+    margin: 2%;
+    background-color: aqua;
+    border: none;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 1%;
+}
