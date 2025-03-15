@@ -46,9 +46,10 @@ body{
     font-weight: bolder;
     font-size: x-large;
     height: 1%;
+    box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15px blue;
 }
 
 .navbar a:hover{
     color: cyan;
-    text-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15px blue;
+    text-shadow: 0 0 5px rgb(251, 255, 0), 0 0 10px rgb(68, 255, 0), 0 0 15px rgb(242, 0, 255);
 }
