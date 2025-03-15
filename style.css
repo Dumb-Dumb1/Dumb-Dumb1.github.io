@@ -49,5 +49,6 @@ body{
 }
 
 .navbar a:hover{
-    color: rgb(255, 0, 0);
+    color: cyan;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15px blue;
 }
